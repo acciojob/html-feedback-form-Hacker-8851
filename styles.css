@@ -1,2 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
 
-/* Your CSS Code here. */
+form {
+  max-width: 400px;
+}
+
+label {
+  display: inline-block;
+  width: 120px;
+  margin-bottom: 10px;
+}
+
+input, button {
+  padding: 5px;
+  margin-bottom: 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
